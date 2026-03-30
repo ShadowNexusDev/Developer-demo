@@ -1,6 +1,6 @@
 # Developer-demo
 This is a demo repository
 <br>
-AUTHOR - Shadow Nexus Dev
+AUTHOR - Shadow Nexus Dev (pro)
 <hr>
  
